@@ -7,7 +7,7 @@ Welcome to this collection of philosophical conversations and writings exploring
 | Document Title | Description | Download Link |
 |---------------|-------------|--------------|
 | Nick Land: Singularity Compression | Philosophical exploration of Nick Land's concepts of technological singularity and time compression | [Download PDF](./Nick%20land%20singularity%20compression.pdf) |
-| DeepSeek Chat (April 15, 2025) | Transcript of philosophical discussions from DeepSeek Chat | [Download PDF](./deepseek-chat.2025-04-15.pdf) |
+| DeepSeek Chat (April 15, 2025) | Transcript of philosophical discussions from DeepSeek Chat | [Download PDF](./JTB) |
 | Nick Land: Selected Writings | Collection of writings and analyses related to Nick Land's philosophical works | [Download PDF](./Nick%20Land%20writing.pdf) |
 | Utilitarianism and Actualism | Examination of utilitarian ethics with focus on actualism | [Download PDF](./utilitarianism%20actualism.pdf) |
 
