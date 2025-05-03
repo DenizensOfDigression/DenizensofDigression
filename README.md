@@ -1,6 +1,8 @@
-# Philosophical Conversations Archive
+# Using LLMs to explore 'latent idea spaces', and learning how LLMs work with analysis.
 
 Deepseek used for all examples. This is an attempt at showing how the applicant's ability to build an 'ontology' by linking various concepts, and selectively choosing quotes, can allow the model to develop its own understanding of the ideas, using language and terminology that is not always consistent with the literature, but under the interpretation of the user is correct and can guide research.
+
+The main point of these explorations is just to show that LLMs, e.g. DeepSeek can not only produce nonsense, which tricks you into believing things that are false, but that it is the best way to explore your own subjective understanding of a topic, before you have the proper terminology to express what you mean. LLMs allow you to express your ideas as they are in the language you understand them to be. The ability of these LLMs to interpollate the real world is limited and innacurate, yet its ability to understand a definition of a word as set by the user, and then to build an ontologie around that is key to using them properly.
 
 ## Available Documents
 
