@@ -18,16 +18,13 @@ Deepseek used for all examples. This is an attempt at showing how the applicant'
 *An example of trying to use a model to understand a thinker, expressing their literary style, mediated by the model. This document explores Nick Land's philosophical perspectives on technological singularity, compression of time/information, and accelerationism.*
 
 ### Gettier cases and JTB
-![Preview unavailable](./preview-placeholder.png)
 
 *Developing a thesis from scratch, carefully selecting and feeding in quotes for the model to reflect back and understand. There are issues with the model's use of the proper philosophical terms here, but it is more important that it is able to engage with the ideas as presetned by the user*
 
 ### Nick Land: Selected Writings
-![Preview unavailable](./preview-placeholder.png)
 
 *Analysis and excerpts from Nick Land's philosophical writings, particularly focusing on accelerationism and critique of traditional philosophical frameworks.*
 
 ### Utilitarianism and Actualism
-![Preview unavailable](./preview-placeholder.png)
 
 *Conversations about utilitarian ethics with a focus on actualism - the view that moral evaluation should consider what would actually happen rather than what could happen.*
